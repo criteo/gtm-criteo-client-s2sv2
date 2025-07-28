@@ -13,3 +13,9 @@
 # limitations under the License.
 
 homepage: "https://www.criteo.com"
+documentation: "https://github.com/criteo/gtm-criteo-client-s2sv2/blob/main/README.md"
+versions:
+  # Latest version
+  - sha: a5fef7b573bdb9e6205cc3acc5400ddfa8e82a65
+    changeNotes: Initial Version
+
